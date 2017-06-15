@@ -36,5 +36,15 @@
     },
     "config": {
         "sort-packages": true
-  }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Appstract\\Skeleton\\SkeletonServiceProvider"
+            ],
+            "aliases": {
+ +              "Alias": "Appstract\\Skeleton\\SkeletonFacade"
+ +          }
+        }
+    }
 }
