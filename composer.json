@@ -43,8 +43,8 @@
                 "Appstract\\Skeleton\\SkeletonServiceProvider"
             ],
             "aliases": {
- +              "Alias": "Appstract\\Skeleton\\SkeletonFacade"
- +          }
+                "Alias": "Appstract\\Skeleton\\SkeletonFacade"
+            }
         }
     }
 }
