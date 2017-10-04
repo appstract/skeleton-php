@@ -17,7 +17,7 @@ composer require appstract/:package_name
 
 ### Provider
 
-Then add the ServiceProvider to your `config/app.php` file:
+Then add the ServiceProvider to your `config/app.php` file (Laravel < 5.5):
 
 ```
 'providers' => [
