@@ -1,4 +1,4 @@
-# Very short description of the package
+# Package Name
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/appstract/:package_name.svg?style=flat-square)](https://packagist.org/packages/appstract/:package_name)
 [![Total Downloads](https://img.shields.io/packagist/dt/appstract/:package_name.svg?style=flat-square)](https://packagist.org/packages/appstract/:package_name)
@@ -15,31 +15,18 @@ You can install the package via composer:
 composer require appstract/:package_name
 ```
 
-### Provider
-
-Then add the ServiceProvider to your `config/app.php` file (Laravel < 5.5):
-
-```
-'providers' => [
-    ...
-
-    Appstract\Skeleton\SkeletonServiceProvider::class
-
-    ...
-]
-```
-
 ## Usage
 
 ``` php
 $skeleton = new Appstract\Skeleton();
+
 echo $skeleton->echoPhrase('Hello, Appstract!');
 ```
 
 ## Testing
 
 ``` bash
-$ composer test
+composer test
 ```
 
 ## Contributing
