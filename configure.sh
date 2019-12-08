@@ -36,8 +36,8 @@ fi
 
 echo
 
-rm -rf .git
-git init
+# rm -rf .git
+# git init
 
 echo
 

@@ -10,13 +10,13 @@
     "authors": [
         {
             "name": ":author_name",
-            "email": "hello@appstract.team",
-            "homepage": "https://appstract.team",
+            "email": ":author_email",
+            "homepage": "https://appstract.nl",
             "role": "Developer"
         }
     ],
     "require": {
-        "php": "^7.0"
+        "php": "^7.2"
     },
     "require-dev": {
         "phpunit/phpunit": "5.*"
