@@ -4,9 +4,6 @@ namespace Appstract\Skeleton;
 
 use Illuminate\Support\Facades\Facade;
 
-/**
- * @see \Appstract\Skeleton\SkeletonClass
- */
 class SkeletonFacade extends Facade
 {
     /**
