@@ -19,7 +19,10 @@
         "php": "^7.2"
     },
     "require-dev": {
-        "phpunit/phpunit": "5.*"
+        "friendsofphp/php-cs-fixer": "^2.16",
+        "symfony/var-dumper": "^4.3",
+        "orchestra/testbench": "^5.0",
+        "phpunit/phpunit": "^9.0"
     },
     "autoload": {
         "psr-4": {
