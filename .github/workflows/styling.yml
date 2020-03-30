@@ -6,7 +6,7 @@ jobs:
   style:
     runs-on: ubuntu-latest
 
-    name: Code Styling
+    name: Code styling
 
     steps:
       - name: Checkout code
