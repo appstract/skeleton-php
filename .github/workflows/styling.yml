@@ -6,6 +6,8 @@ jobs:
   style:
     runs-on: ubuntu-latest
 
+    name: Code Styling
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v1

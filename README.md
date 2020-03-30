@@ -1,9 +1,9 @@
 # :package_name
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/appstract/:package_name.svg?style=flat-square)](https://packagist.org/packages/appstract/:package_name)
+[![Latest Version](https://img.shields.io/packagist/v/appstract/:package_name.svg?style=flat-square)](https://packagist.org/packages/appstract/:package_name)
 [![Total Downloads](https://img.shields.io/packagist/dt/appstract/:package_name.svg?style=flat-square)](https://packagist.org/packages/appstract/:package_name)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://img.shields.io/travis/appstract/:package_name/master.svg?style=flat-square)](https://travis-ci.org/appstract/:package_name)
+[![Tests Status](https://img.shields.io/github/workflow/status/appstract/skeleton-php/tests?label=tests)](https://github.com/appstract/skeleton-php/actions?query=workflow%3Atests+branch%3Amaster)
 
 :package_description
 
