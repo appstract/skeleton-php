@@ -2,8 +2,8 @@
 
 [![Latest Version](https://img.shields.io/packagist/v/appstract/:package_name.svg?style=flat-square)](https://packagist.org/packages/appstract/:package_name)
 [![Total Downloads](https://img.shields.io/packagist/dt/appstract/:package_name.svg?style=flat-square)](https://packagist.org/packages/appstract/:package_name)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Tests Status](https://img.shields.io/github/workflow/status/appstract/:package_name/tests?label=tests)](https://github.com/appstract/:package_name/actions?query=workflow%3ATests+branch%3Amaster)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
 :package_description
 
