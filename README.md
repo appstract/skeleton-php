@@ -35,7 +35,11 @@ Contributions are welcome, [thanks to y'all](https://github.com/appstract/:packa
 
 ## About Appstract
 
-Appstract is a small team from The Netherlands. We create (open source) tools for web developers, write about related subjects on [Medium](https://medium.com/appstract) and create tailor-made software for clients. You can [follow us on Twitter](https://twitter.com/appstractnl), [buy us a beer](https://www.paypal.me/appstract/10) or [support us on Patreon](https://www.patreon.com/appstract).
+Appstract is a small team from The Netherlands. We create [open source](https://appstract.nl/open-source) packages and tools for web developers, [write](https://appstract.nl/blog) about related subjects and create tailor-made software for [clients](https://appstract.nl/cases). You can follow us on [Twitter](https://twitter.com/appstractnl).
+
+## Support us
+
+We dedicate a lot of time to contribute to the open source community by creating [packages](https://github.com/appstract) and tools. We would really appreciate it if you could [sponsor us](https://github.com/sponsors/appstract), so we can continue creating awesome stuff. You also receive premium and early-bird access to our sponsorware content.
 
 ## License
 
