@@ -35,7 +35,7 @@ Contributions are welcome, [thanks to y'all](https://github.com/appstract/:packa
 
 ## About Appstract
 
-Appstract is a small team from The Netherlands. We create [open source](https://appstract.nl/open-source) packages and tools for web developers, [write](https://appstract.nl/blog) about related subjects and create tailor-made software for [clients](https://appstract.nl/cases). You can follow us on [Twitter](https://twitter.com/appstractnl).
+Appstract is a small team from The Netherlands. We create [open source](https://github.com/appstract) packages and tools for web developers, [write](https://medium.com/appstract) about related subjects and create tailor-made software for [clients](https://appstract.nl). You can follow us on [Twitter](https://twitter.com/appstractnl).
 
 ## Support us
 
